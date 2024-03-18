@@ -9,8 +9,10 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-              "Engine",
-              "GameplayAbilities"
+				"Engine",
+				"GameplayAbilities",
+				"UMG",
+				"CoreUObject"
 			]
 		}
 	],
@@ -21,10 +23,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-        },
-      {
-        "Name": "GameplayAbilities",
-        "Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
 		}
 	]
 }

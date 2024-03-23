@@ -5,6 +5,7 @@
 #include "AbilitySystemBlueprintLibrary.h"
 #include "AbilitySystemComponent.h"
 
+#define Max 1
 
 AAuraEffectActor::AAuraEffectActor()
 {

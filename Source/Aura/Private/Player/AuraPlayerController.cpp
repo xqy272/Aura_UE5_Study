@@ -1,4 +1,4 @@
-// By QingYang
+// A project to learn UE C++
 
 
 #include "Player/AuraPlayerController.h"
